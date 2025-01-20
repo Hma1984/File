@@ -5,15 +5,10 @@
     "BRAND": "google",
     "PRODUCT": "komodo_beta",
     "DEVICE": "komodo",
-    "RELEASE": "15",
     "ID": "AP41.240925.009",
-    "INCREMENTAL": "12620009",
     "TYPE": "user",
     "TAGS": "release-keys",
     "SECURITY_PATCH": "2024-10-05",
     "DEVICE_INITIAL_SDK_INT": "32",
-    "spoofProvider": true,
-    "spoofProps": true,
-    "spoofSignature": false,
     "DEBUG": false
 }
