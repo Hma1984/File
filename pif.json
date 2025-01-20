@@ -1,4 +1,5 @@
 {
+    
     "PRODUCT": "komodo_beta",
     "DEVICE": "komodo",
     "MANUFACTURER": "Google",
@@ -11,4 +12,5 @@
     "INCREMENTAL": "12620009",
     "TYPE": "user",
     "TAGS": "release-keys"
+    
 }
