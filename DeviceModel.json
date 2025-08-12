@@ -151,6 +151,13 @@
       "BOARD": "kbi"
     },
     {
+      "name": "Realme 15 Pro 5G",
+      "BRAND": "realme",
+      "DEVICE": "Realme 15 Pro 5G",
+      "MANUFACTURER": "realme",
+      "MODEL": "RMX5101"
+    },
+    {
       "name": "Samsung Galaxy S23 Ultra",
       "BRAND": "samsung",
       "DEVICE": "dm3q",
