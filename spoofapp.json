@@ -19,7 +19,6 @@
     "com.blitzteam.battleprime",
     "com.tencent.tmgp.gnyx",
     "com.garena.game.df",
-    "com.ss.android.ugc.trill",
     "com.zhiliaoapp.musically"
   ],
   "PACKAGES_REDMAGIC_9_PRO_DEVICE": {
@@ -184,5 +183,15 @@
     "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
     "PRODUCT": "RE5824031PN0DCB4L1",
     "BOARD": "kbi"
+}
+  "PACKAGES_REALME_15_5G": [
+    "com.ngame.allstar.eu",
+    "com.garena.game.kgvn"
+  ],
+"PACKAGES_REALME_15_5G_DEVICE": {
+    "BRAND": "realme",
+    "DEVICE": "Realme 15 Pro 5G",
+    "MANUFACTURER": "realme",
+    "MODEL": "RMX5101",
 }
 }
