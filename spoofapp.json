@@ -19,6 +19,7 @@
     "com.blitzteam.battleprime",
     "com.tencent.tmgp.gnyx",
     "com.garena.game.df",
+    "com.ss.android.ugc.trill",
     "com.zhiliaoapp.musically"
   ],
   "PACKAGES_REDMAGIC_9_PRO_DEVICE": {
@@ -101,13 +102,13 @@
   "PACKAGES_POCO_F5": [
     "com.mobile.legends"
   ],
-  "PACKAGES_ROG_PHONE_5S_DEVICE": {
-    "BRAND": "ASUS",
-    "DEVICE": "ROG Phone 5s",
-    "MANUFACTURER": "ASUS",
-    "MODEL": "ZS676KS",
-    "FINGERPRINT": "ASUS/ZS676KS/ROG Phone 5s:12/SKQ1.210821.001/20220810:user/release-keys",
-    "PRODUCT": "ZS676KS"
+  "PACKAGES_POCO_F5_DEVICE": {
+    "BRAND": "POCO",
+    "DEVICE": "POCO F5",
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "23049PCD8G",
+    "FINGERPRINT": "POCO/23049PCD8G/POCOF5:13/TQ3A.230805.001/20230620:user/release-keys",
+    "PRODUCT": "23049PCD8G"
   },
   "PACKAGES_ROG_PHONE_6D_ULTIMATE": [
     "com.gameloft.android.ANMP.GloftA9HM",
@@ -183,12 +184,24 @@
     "FINGERPRINT": "realme/kbi/RE58B4L1:14/UKQ1.230804.001/1715073230894:user/release-keys",
     "PRODUCT": "RE5824031PN0DCB4L1",
     "BOARD": "kbi"
-}
-  "PACKAGES_REALME_15_5G": [
+},
+  "PACKAGES_REALME_15_PRO": [
+    "com.garena.game.kgvn",
+    "com.garena.game.kgid",
+    "com.garena.game.kgth",
+    "com.tencent.ngjp",
+    "com.garena.game.kgtw",
     "com.ngame.allstar.eu",
-    "com.garena.game.kgvn"
+    "com.clashoftitansandroid.india",
+    "com.tencent.ngame.chty",
+    "com.garena.game.kgvntest",
+    "com.levelinfinite.aov",
+    "com.tencent.aovindia",
+    "com.garena.game.kgms",
+    "com.tencent.aovjp",
+    "com.garena.game.kgph"
   ],
-"PACKAGES_REALME_15_5G_DEVICE": {
+"PACKAGES_REALME_15_PRO_DEVICE": {
     "BRAND": "realme",
     "DEVICE": "Realme 15 Pro 5G",
     "MANUFACTURER": "realme",
