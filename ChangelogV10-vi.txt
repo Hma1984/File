@@ -1,0 +1,15 @@
+Bản cập nhật chính thức v1.0. Cập nhật lại cho cả OnePlus và Xiaomi
+
+> Hộp công cụ cập nhật v2.0
+> Sửa lỗi độ trễ thông báo trên Xiaomi (90%) và OnePlus (60%)
+> Sửa lỗi GoogleCTS và gọi Gemini trên OnePlus
+> Tính năng AI (Sẽ sớm được cập nhật do lỗi ứng dụng mod)
+> Đa ngôn ngữ (Xiaomi)
+> Chặn mạng trên OppoPackageInstaller
+> Hỗ trợ A13->A15 (Xiaomi)
+> Bản vá lõi và vô hiệu hóa cờ bảo mật (Cả hai thương hiệu)
+> Sửa lỗi hình nền độ sâu (OnePlus)
+> Chính thức thêm hỗ trợ thiết bị Realme từ bản beta
+
+Vấn đề:
+> Xiaomi hiện là bản gốc (có nghĩa là không có ứng dụng mod)
