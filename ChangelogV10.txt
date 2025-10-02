@@ -1,1 +1,15 @@
+Official Update v1.0 RollbackUpdate both OnePlus and Xiaomi
 
+> Update Toolbox v2.0
+> Fixed Notification Delay on Xiaomi(90%) and OnePlus(60%)
+> Fixed GoogleCTS and call Gemini on OnePlus
+> AI Feature(Reupdate soon due  bug on modding app)
+> Multi-Language(Xiaomi)
+> Block Network on OppoPackageInstaller
+> Support A13->A15(Xiaomi) Now
+> Corepatch And Disable Secure  Flag(Both Brand)
+> Fixed Depth Wallpaper(OnePlus)
+> Official Added Realme device support from beta
+
+Issues:
+> Xiaomi now is original(mean no modded app)
