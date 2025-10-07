@@ -10,6 +10,4 @@ Bản cập nhật chính thức v1.0. Cập nhật lại cho cả OnePlus và X
 > Sửa lỗi CorePatch và SecureFlag trên Xiaomi Và OnePlus
 > Sửa lỗi hình nền độ sâu (OnePlus)
 > Chính thức thêm hỗ trợ thiết bị Realme từ bản beta
-
-Vấn đề:
-> Xiaomi hiện không có bất kỳ gì (có nghĩa là không có ứng dụng mod)
+> Cập nhật blob fix sóng + camera cho OnePlus Ace 5 và 13T OOS
