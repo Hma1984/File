@@ -1,3 +1,15 @@
-Changelog update for OnePlus and Xiaomi v1.1 PBT(Public Beta Test)
+Update version v1.1 Public Beta Test
+Exclusively for Android 16 OxygenOS and ColorOS
 
-Changelog will apply here after end of PBT Update
+Notable changes in this version include:
+> Replace OPPO AI with OnePlus AI on ColorOS 16
+> Fix additional errors during the rom building process
+> Update Update fix files and notification section.
+> Fix signal for OOS16 (Only OnePlus 13 CN currently)
+> Update the latest SystemUI exclusively for ColorOS 16 to fix GoogleCTS errors and swipe gestures to call google gemini (Extracted from OPPO Find X9)
+
+After updating the official version of v1.1, continue to update Toolbox v3.0 including:
+> Completely improve the new interface
+> Update the FPS Patch feature for TFT
+> Update the keybox used to fix the wallet (Requires a live keybox)
+> And many other fake modes
