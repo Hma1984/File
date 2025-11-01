@@ -256,6 +256,22 @@
       "FINGERPRINT": "google/komodo/komodo:15/BP1A.250405.005.A1/13151424:user/release-keys",
       "PRODUCT": "komodo",
       "BOARD": "komodo"
+    },
+    {
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "BRAND": "samsung",
+      "MANUFACTURER": "samsung",
+      "MODEL": "SM-X916B"
+    },
+    {
+      "name": "OPPO Find X8 Pro Global",
+      "BRAND": "oppo",
+      "DEVICE": "CPH2659",
+      "MANUFACTURER": "oppo",
+      "MODEL": "CPH2659",
+      "FINGERPRINT": "OPPO/CPH2659IN/OP5AB0L1:15/AP3A.240617.008/V.R4T3.2f018af-1076c9e-1076ca2:user/release-keys",
+      "PRODUCT": "CPH2659",
+      "PRODUCT": "CPH2659"
     }
   ]
 }
