@@ -1,15 +1,37 @@
-Update version v1.1 Public Beta Test
-Exclusively for Android 16 OxygenOS and ColorOS
+Official update version v1.1 for Xiaomi and OnePlus
 
-Notable changes in this version include:
-> Replace OPPO AI with OnePlus AI on ColorOS 16
-> Fix additional errors during the rom building process
-> Update Update fix files and notification section.
-> Fix signal for OOS16 (Only OnePlus 13 CN currently)
-> Update the latest SystemUI exclusively for ColorOS 16 to fix GoogleCTS errors and swipe gestures to call google gemini (Extracted from OPPO Find X9)
+Updates will include:
+- For xiaomi
+> Official support for Android 16 (HyperOS 3)
+> Fix app crash on some devices
+> Update NothingToolBox v2.0 version > Nothing Manager v3.0 improves the interface completely new easy to use and completely user-friendly (GUI App is inspired by apps like KSUN and other root manager apps)
+> Add keybox support and other features
 
-After updating the official version of v1.1, continue to update Toolbox v3.0 including:
-> Completely improve the new interface
-> Update the FPS Patch feature for TFT
-> Update the keybox used to fix the wallet (Requires a live keybox)
-> And many other fake modes
+- For OnePlus
+> Official support for Android 16 (Realme UI 7, OxygenOS 16, ColorOS 16)
+> Fix MindSpace, AI Speech Transcription,... Region error on ColorOS China
+> Fix Widget error with Chinese language and replace domestic -1 screen to global shelf (can be turned off and on if not wanted)
+> Add Docker on home screen (Default will be off and can be enable inside the app.Reference source from the mod app of @kakashi1v1 launcher realmeui 7)
+> Fix Google CTS, Google Gemini error on ColorOS China (Extracted from OPPO Find X9)
+> Fix the screen light border not working on 3rd party apps (China only)
+> Fix the error of not showing notifications on AOD screen (China only)
+> Allow all music listening apps to be displayed on AOD without limiting any music listening app (China)
+> Update NothingToolBox v2.0 version > Nothing Manager v3.0 improves the interface completely new, easy to use and completely user-friendly (GUI App is inspired by apps like KSUN and other root manager apps)
+
+- For Nothings Manager
+> Update v3.0 version suitable for v1.1 version
+> Completely update the new framework (Framework made by @Kousei_jp )
+> Add Keybox option to fix Play Integrity
+> Update more Fast ROM Download option on homescreen
+> Fix UI app error that often overlaps content
+> Current UI app will support Monet(A12+)
+
+Current error is:
+> Advanced keyboard is broken(Xiaomi)
+> Some AI apps are not working(ColorOS)
+> A16 Currently will not disable secure flag and corepatch
+> Recovery flash error on xiaomi
+
+Changelog will be updated inside the app as soon as possible!
+
+Last update: 04/11/2025
