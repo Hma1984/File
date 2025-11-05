@@ -17,6 +17,11 @@ Các update sẽ bao gồm:
 > Sửa lỗi không hiện thông báo trên màn hình AOD(Chỉ China)
 > Cho phép toàn bộ ứng dụng nghe nhạc có thể hiện được trên AOD không giới hạn bất kỳ app nghe nhạc nào(China)
 > Cập nhật phiên bản NothingToolBox v2.0 > Nothing Manager v3.0 cải thiện giao diện hoàn toàn mới dễ sử dụng và hoàn toàn thân thiện với người dụng(GUI App được lấy ý tưởng từ các app như KSUN và các app root mananger khác)
+Ngày 6/11/2025
+> Sửa lỗi camera trên Ace 5(OxygenOS 16)
+> Sửa lỗi 1 số dịch vụ AI trên ColorOS 16 không hoạt động(gồm Viết AI,Tóm tắt AI và Đọc lời nói AI)
+> Sửa lỗi thư viện bị lỗi AI trên ColorOS 15 và 16
+> Cập nhật Thư viện hỗ trợ Google Photo cho ColorOS 15 
 
 - Đối với Nothings Manager
 > Cập nhật phiên bản v3.0 thích hợp cho phiên bản v1.1
@@ -27,11 +32,9 @@ Các update sẽ bao gồm:
 > UI app hiện tại sẽ hỗ trợ Monet(A12+)
 
 Lỗi hiện tại là:
-> Bàn phím nâng cao bị lỗi(Xiaomi)
-> 1 số app AI không hoạt động(ColorOS)
 > A16 Hiện tại sẽ không tắt sẵn secure flag và corepatch
 > Lỗi recovery flash trên xiaomi
 
 Changelog sẽ được cập nhật vào bên trong app sớm nhất!
 
-Cập nhật gần nhất: 04/11/2025
+Cập nhật gần nhất: 06/11/2025
