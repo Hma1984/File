@@ -17,6 +17,11 @@ Updates will include:
 > Fix the error of not showing notifications on AOD screen (China only)
 > Allow all music listening apps to be displayed on AOD without limiting any music listening app (China)
 > Update NothingToolBox v2.0 version > Nothing Manager v3.0 improves the interface completely new, easy to use and completely user-friendly (GUI App is inspired by apps like KSUN and other root manager apps)
+Day 6/11/2025
+> Fixed Camera Issues(OxygenOS 16)
+> Fixed some AI Services not working(ColorOS 16)
+> Fixed Gallery AI Not Working(ColorOS 16)
+> Updated Gallery with Google Photo Supported(ColorOS 15)
 
 - For Nothings Manager
 > Update v3.0 version suitable for v1.1 version
@@ -34,4 +39,4 @@ Current error is:
 
 Changelog will be updated inside the app as soon as possible!
 
-Last update: 04/11/2025
+Last update: 06/11/2025
