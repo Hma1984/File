@@ -32,8 +32,6 @@ Day 6/11/2025
 > Current UI app will support Monet(A12+)
 
 Current error is:
-> Advanced keyboard is broken(Xiaomi)
-> Some AI apps are not working(ColorOS)
 > A16 Currently will not disable secure flag and corepatch
 > Recovery flash error on xiaomi
 
