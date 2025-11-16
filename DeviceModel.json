@@ -264,6 +264,12 @@
       "MODEL": "SM-X916B"
     },
     {
+      "name": "Samsung Galaxy Z Fold 7",
+      "BRAND": "samsung",
+      "MANUFACTURER": "samsung",
+      "MODEL": "SM-F966B"
+    },
+    {
       "name": "OPPO Find X8 Pro Global",
       "BRAND": "oppo",
       "DEVICE": "CPH2659",
